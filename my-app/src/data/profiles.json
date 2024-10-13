@@ -1,0 +1,53 @@
+
+
+[
+    {
+      "id": 1,
+      "name": "Sameer Ahuja",
+      "photo": "https://i.pinimg.com/564x/dd/85/44/dd854446fd1c91adeeeccf1d50546ae0.jpg",
+      "description": "Product Engineer",
+      "contact": "sameer@gmail.com",
+      "interests": ["Coding", "Hiking", "Gaming"],
+      "latitude": 25.5941,
+      "longitude": 85.1376,
+      "address": "Patna, Bihar, IND"
+    },
+    {
+      "id": 2,
+      "name": "Vineeta Singh",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-fP5AGXdlU8YS4q7fnC7suKmTzRypyBSBQA&s",
+      "description": "Marketing Specialist",
+      "contact": "vineetasingh@gmail.com",
+      "interests": ["SEO", "Content Writing", "Social Media"],
+      "latitude": 19.0760,
+      "longitude": 72.8777,
+      "address": "Mumbai,Maharashtra,IND"
+
+
+
+    },
+    {
+      "id": 3,
+      "name": "Deepali Rajbhar",
+      "photo": "https://i.pinimg.com/736x/c3/e9/7a/c3e97aa255c604a1123e554cc12eefdc.jpg",
+      "description": "Data Scientist",
+      "contact": "deepalirajbhar@gmail.com",
+      "interests": ["Machine Learning", "Painting", "Cooking"],
+      "latitude": 26.8467,
+      "longitude": 80.9462,
+      "address": "Lucknow,UttarPradesh, IND"
+    },
+    {
+      "id": 4,
+      "name": "Aarya Pandya",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMYR0TAT4xCZgg-7cvDs2gH02sMGHAIbFDYQ&s",
+      "description": "Graphic Designer",
+      "contact": "aaryapandya@gmail.com",
+      "interests": ["Design", "Traveling", "Photography"],
+      "latitude": 23.0225,
+      "longitude": 72.5714,
+      "address": "Ahmedabad,Gujarat, IND"
+    }
+    
+  ]
+  

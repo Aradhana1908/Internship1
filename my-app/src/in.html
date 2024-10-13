@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Management System</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <h1>Profile Management</h1>
+        <div>
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#" class="admin-button">Admin Panel</a>
+        </div>
+    </nav>
+    
+    <div class="profile-list">
+        <h1>Profiles</h1>
+        <div class="search-container">
+            <input type="text" placeholder="Search by Name" class="rounded-input">
+            <input type="text" placeholder="Search by Filter" class="rounded-input">
+            <button class="rounded-button">Search</button>
+        </div>
+        <div class="profiles">
+            <!-- Profile cards will be generated here -->
+            <div class="profile-card">
+                <img src="profile1.jpg" alt="Profile 1">
+                <h3>John Doe</h3>
+                <p>Age: 30</p>
+                <p>Location: New York</p>
+                <a href="#">View Profile</a>
+            </div>
+            <div class="profile-card">
+                <img src="profile2.jpg" alt="Profile 2">
+                <h3>Jane Smith</h3>
+                <p>Age: 25</p>
+                <p>Location: Los Angeles</p>
+                <a href="#">View Profile</a>
+            </div>
+            <!-- Add more profile cards as needed -->
+        </div>
+    </div>
+
+    <div class="map-container" id="map"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
